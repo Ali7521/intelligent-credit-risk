@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Production Build
+dist/
+frontend/dist/
+build/
+
+# Local databases & runtimes
+*.db
+*.sqlite3
+*.sqlite
+creditguard.db
+
+# Secrets & Environment variables
+.env
+!.env.example
+
+# IDE & OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log

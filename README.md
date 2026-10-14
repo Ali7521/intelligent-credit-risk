@@ -334,7 +334,7 @@ docker-compose up -d
 ```env
 DATABASE_URL=postgresql://postgres:postgrespassword@localhost:5432/creditguard
 ```
-3. Restart the backend. SQLAlchemy automatically migrates and initializes tables.
+3. Restart the backend  SQLAlchemy automatically migrates and initializes tables.
 
 ---
 

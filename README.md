@@ -6,7 +6,7 @@
 
 ## 📌 Executive Summary
 
-**AI CreditGuard** is an end-to-end credit risk assessment system built for transparent, accountable lending decision support. Rather than relying on black-box predictions or naive accuracy, AI CreditGuard implements an enterprise-grade ML pipeline that compares **Logistic Regression**, **Random Forest**, and **XGBoost**, balances minority default events using **SMOTE**, and generates local mathematical feature attribution using **SHAP (Shapley Additive Explanations)**.
+**AI CreditGuard** is an end-to-end credit risk assessment system built for transparent, accountable lending decision support. Rather than relying on black-box predictions or naive accuracy, AI CreditGuard implements an enterprise-grade ML pipeline that compares **Logistic Regression**, **Random Forestt**, and **XGBoost**, balances minority default events using **SMOTE**, and generates local mathematical feature attribution using **SHAP (Shapley Additive Explanations)**.
 
 ### Core workflow
 ```
